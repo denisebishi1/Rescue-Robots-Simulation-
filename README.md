@@ -1,5 +1,5 @@
 # Rescue-Robots-Simulation-
-Firefighter simulation using BOE bots and programmed using PBasic language
+- Firefighter simulation using BOE bots and programmed using PBasic language
 
 # Functionality
 - Simulating a real life fire situation
